@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": { 
-    "start": "node index.js" 
+  "scripts": {
+    "start": "node index.js"
   },
   "repository": {
     "type": "module",
@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/nataliadolgun58-dev/Web-Development_2026/issues"
   },
