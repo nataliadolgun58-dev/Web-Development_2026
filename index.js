@@ -52,7 +52,7 @@ function getSensor(data, name) {
   return sensor;
 }
 
-// перелік
+// перелік.
 program
   .command('list')
   .description('показати стислий список датчиків')
