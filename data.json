@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-03",
+  "stationName": "Lviv Weather Station",
+  "location": "Lviv, Ukraine",
+  "sensors": [
+    {
+      "sensorName": "Temperature sensor",
+      "unit": "°C",
+      "isActive": true,
+      "measurements": [
+        {
+          "time": "08:00",
+          "value": 17.4
+        },
+        {
+          "time": "12:00",
+          "value": null
+        },
+        {
+          "time": "18:00",
+          "value": 21.8
+        }
+      ]
+    },
+    {
+      "sensorName": "Humidity sensor",
+      "unit": "%",
+      "isActive": true,
+      "measurements": [
+        {
+          "time": "08:00",
+          "value": 72
+        },
+        {
+          "time": "12:00",
+          "value": 64
+        },
+        {
+          "time": "18:00",
+          "value": null
+        }
+      ]
+    },
+    {
+      "sensorName": "Pressure sensor",
+      "unit": "hPa",
+      "isActive": true,
+      "measurements": [
+        {
+          "time": "08:00",
+          "value": 1015.2
+        },
+        {
+          "time": "12:00",
+          "value": 1013.8
+        },
+        {
+          "time": "18:00",
+          "value": 1012.6
+        }
+      ]
+    },
+    {
+      "sensorName": "Wind speed sensor",
+      "unit": "m/s",
+      "isActive": true,
+      "measurements": [
+        {
+          "time": "08:00",
+          "value": 3.5
+        },
+        {
+          "time": "12:00",
+          "value": 5.1
+        },
+        {
+          "time": "18:00",
+          "value": null
+        }
+      ]
+    }
+  ]
+}

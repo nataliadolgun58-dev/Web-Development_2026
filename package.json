@@ -1,0 +1,24 @@
+{
+  "name": "web-development_2026",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": { 
+    "start": "node index.js" 
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/nataliadolgun58-dev/Web-Development_2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nataliadolgun58-dev/Web-Development_2026/issues"
+  },
+  "homepage": "https://github.com/nataliadolgun58-dev/Web-Development_2026#readme",
+  "dependencies": {
+    "commander": "^15.0.0"
+  }
+}
